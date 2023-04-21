@@ -1,0 +1,1 @@
+export const TMBD_API_KEY =- "a75766149f058c94cbde1356c3161786"
